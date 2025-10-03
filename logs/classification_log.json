@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-10-02T19:46:08.867085",
+    "input": "This movie was absolutely fantastic! Best film I've seen all year. Amazing acting!",
+    "predicted_label": "positive",
+    "confidence": 0.9776360392570496,
+    "all_probabilities": {
+      "negative": 0.022364016622304916,
+      "positive": 0.9776360392570496
+    },
+    "fallback_triggered": false,
+    "user_clarification": null,
+    "final_label": "positive",
+    "final_confidence": 0.9776360392570496,
+    "correction_applied": false
+  },
+  {
+    "timestamp": "2025-10-02T19:46:08.892796",
+    "input": "The movie was painfully slow and boring.",
+    "predicted_label": "negative",
+    "confidence": 0.9316162467002869,
+    "all_probabilities": {
+      "negative": 0.9316162467002869,
+      "positive": 0.06838371604681015
+    },
+    "fallback_triggered": false,
+    "user_clarification": null,
+    "final_label": "negative",
+    "final_confidence": 0.9316162467002869,
+    "correction_applied": false
+  },
+  {
+    "timestamp": "2025-10-02T19:46:08.915182",
+    "input": "The acting was decent but the story was quite boring.",
+    "predicted_label": "negative",
+    "confidence": 0.83987957239151,
+    "all_probabilities": {
+      "negative": 0.83987957239151,
+      "positive": 0.1601203829050064
+    },
+    "fallback_triggered": false,
+    "user_clarification": null,
+    "final_label": "negative",
+    "final_confidence": 0.83987957239151,
+    "correction_applied": false
+  }
+]

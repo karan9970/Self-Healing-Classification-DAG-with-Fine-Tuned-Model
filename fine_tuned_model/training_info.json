@@ -1,0 +1,18 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "training_date": "2025-10-02T19:46:07.721827",
+  "train_samples": 3000,
+  "test_samples": 600,
+  "final_metrics": {
+    "eval_loss": 0.3582666516304016,
+    "eval_accuracy": 0.8383333333333334,
+    "eval_f1": 0.8318890814558059,
+    "eval_precision": 0.8480565371024735,
+    "eval_recall": 0.8163265306122449,
+    "eval_runtime": 4.2464,
+    "eval_samples_per_second": 141.296,
+    "eval_steps_per_second": 4.474,
+    "epoch": 2.0
+  },
+  "training_time": 99.0089
+}
